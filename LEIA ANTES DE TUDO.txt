@@ -1,0 +1,11 @@
+Antes de iniciar o script 
+
+1- tenha certeza de que tem o R Studio e o R instalado corretamtente
+2- crie uma pasta no seu diretório com o nome 'expected'
+3- Cole todos os arquivos do Winzip na mesma
+3- Abra o R studio
+4- Aperte 'File'
+5- 'New Project'
+6- 'Existing directory'
+7- selecione a pasta 'expected' que criaste na etapa 2
+8 -Abra o 'expected goals analise.R' no seu R Studio
